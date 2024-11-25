@@ -1,12 +1,12 @@
 #main-computer{
     display: grid;
-    grid-template-columns: 1FR 1FR 1FR  ;
+    grid-template-columns: 1fr 1fr 1fr ;
     grid-template-rows: 100px 100px 100px  ;
     gap: 5px;
     background-color: black;
 }
   
-#main-computer > div {/;/;
+#main-computer > div {
   border-radius: 3px;
   border: 1px solid black;
 }
