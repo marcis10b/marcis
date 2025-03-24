@@ -15,7 +15,7 @@ let i = masivs1.length - 1;
 console.log(masivs1[i]);
 */
 
-let arr = ["q", "w", "e" , "r" , "t" , "y"];
+/*let arr = ["q", "w", "e" , "r" , "t" , "y"];
 console.log(arr);
 arr.push("u");
 
@@ -29,8 +29,24 @@ arr.pop();
 console.log(arr);
 
 arr.shift();
-console.log(arr);
+console.log(arr);*/
+
+for (let i = 0; i < 5; i++) {
+    console.log(i);
+}
+
+for (let i = 5; i <= 0; i--) {
+    console.log(i);
+}
+let arr = [1,2,3,4,5,6,7,8,9,10];
+
+for (let i = 0; i <= 10; i++) {
+    console.log(i)
+}
 
 
-arr[2] = null;
-console.log(arr);
+
+
+
+
+
